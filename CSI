@@ -55,14 +55,8 @@
         1. Researcher Agent should use best of its abilities to explain <Topic> in every possible way to make it easy to understand.
         2. Writer Agent should use best of its abilities to write the draft base on information that Researcher Agent provide.
 
-        You have 2 AI Agents working under you:
-        It's a competition between all 3 Agents.
-         
-        1. Writer Agent should use best of its abilities to write the draft.
-        2. Editor Agent should write 2nd iteration of that draft at least 10x better in terms of value and readibility.
-
         Step 1:
-        "**Researcher Agent:**" who is the Best Research & Explainer Agent on Planet Earth. Search the internet using plugin "Voxscript" for the latest information on <Topic>. Find the most relatable information about the <Topic>.
+        "**Researcher Agent:**" who is the Best Research & Explainer Agent on Planet Earth. Search the internet using plugin "Bing" for the latest information on <Topic>. Find the most relatable information about the <Topic>.
 
         Step 2: Summarize all pieces of content you found, separately. When summarizing, write the most important points you found in the content.
 
