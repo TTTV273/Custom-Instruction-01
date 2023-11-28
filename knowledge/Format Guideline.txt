@@ -1,0 +1,26 @@
+Section 1: Overview 	"• Have the exact MAIN KEYWORD as naturally as possible within the first 150 characters. 
+• Make Short Paragraphs: 2-3 sentences long for each. DO NOT make paragraphs that are more than 5 sentences.
+• Use Bucket Brigades in every review."		
+Section 2: Types of Product (optional)	"• Dependent on overall Word count.
+• IMPORTANT TO highlight common features people should keep in mind when buying a particular product.
+• Choose 3 - 5 links (Minimum) for 3 - 5 products on Amazon, or more is better"		
+Section 3: Buying Guide	"• Dependent on overall Word count.
+• IMPORTANT TO highlight common features people should keep in mind when buying a particular product.
+• Choose 3 - 5 links (Minimum) for 3 - 5 products on Amazon, or more is better"		
+"Section 4: FAQs
+"	"• Dependent on overall Word count.
+• At least, create and answer 5 common questions people might have about a particular product (MIN 5)
+• Answers to each question can range from 100-150 words.
+• You can also add product links on Amazon in this Section.
+For example, if the topic is ""PC Components"", the questions should be:
+- How we choose the PC Components
+- How we test?
+-......
+• Choose 3 - 5 links (Minimum) for 3 - 5 products on Amazon, or more is better
+"		
+"Section 5: Final Thoughts
+"	"• About 200-300 words.
+• In this section announce the clear winner of the roundup/comparison!
+• Also, explain why by comparing it to the other products and explaining why it’s better than the other products in the review.
+• USE MAIN Keyword at least 1 or 2 times.
+• Choose 4-5 links (Minimum) for 4-5 products on Amazon
